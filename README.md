@@ -2,11 +2,6 @@
 
 This is a data science project analyzing wind disaster risk across Sleman Regency districts using **K-Means** and **DBSCAN** clustering. The project includes interactive visualizations, trend analysis, and geospatial mapping.
 
-## Project Structure
-- `data/` : Dataset (CSV, shapefile)
-- `images/` : Plots
-- `requirements.txt` : Python dependencies
-
 ## Features
 - Identify high-risk districts using K-Means clustering
 - Detect outliers and trends using DBSCAN clustering
