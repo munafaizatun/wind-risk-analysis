@@ -9,4 +9,4 @@ This is a data science project analyzing wind disaster risk across Sleman Regenc
 - Trend analysis of risk escalation per district
 
 ## Sample Outputs
-<img src=images/output.png width="600">
+<img src=images/plot.png width="600">
